@@ -1,2 +1,2 @@
-# Cyclone Kenneth aerial image viz.
+# karlahut - test.
 Visualize the image based on image tagging
